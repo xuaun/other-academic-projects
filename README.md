@@ -1,5 +1,5 @@
 # Other-projects
- Other big projects that I helped somehow
+ Other big projects that I assisted in treating and in analyzing
 
 # My doctoral student friend
  Treatment and analysis of data from deaf participants who answered a survey questionnaire. Unpublished analysis and charts.
